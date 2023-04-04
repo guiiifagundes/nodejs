@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "meu primeiro aplicativo web com NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiiifagundes/nodejs.git"
+  },
+  "author": "Guilherme Fagundes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guiiifagundes/nodejs/issues"
+  },
+  "homepage": "https://github.com/guiiifagundes/nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
